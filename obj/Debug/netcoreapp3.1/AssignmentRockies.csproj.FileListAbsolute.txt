@@ -1,0 +1,13 @@
+D:\AssignmentRockies\bin\Debug\netcoreapp3.1\AssignmentRockies.exe
+D:\AssignmentRockies\bin\Debug\netcoreapp3.1\AssignmentRockies.deps.json
+D:\AssignmentRockies\bin\Debug\netcoreapp3.1\AssignmentRockies.runtimeconfig.json
+D:\AssignmentRockies\bin\Debug\netcoreapp3.1\AssignmentRockies.runtimeconfig.dev.json
+D:\AssignmentRockies\bin\Debug\netcoreapp3.1\AssignmentRockies.dll
+D:\AssignmentRockies\bin\Debug\netcoreapp3.1\AssignmentRockies.pdb
+D:\AssignmentRockies\obj\Debug\netcoreapp3.1\AssignmentRockies.csprojAssemblyReference.cache
+D:\AssignmentRockies\obj\Debug\netcoreapp3.1\AssignmentRockies.AssemblyInfoInputs.cache
+D:\AssignmentRockies\obj\Debug\netcoreapp3.1\AssignmentRockies.AssemblyInfo.cs
+D:\AssignmentRockies\obj\Debug\netcoreapp3.1\AssignmentRockies.csproj.CoreCompileInputs.cache
+D:\AssignmentRockies\obj\Debug\netcoreapp3.1\AssignmentRockies.dll
+D:\AssignmentRockies\obj\Debug\netcoreapp3.1\AssignmentRockies.pdb
+D:\AssignmentRockies\obj\Debug\netcoreapp3.1\AssignmentRockies.genruntimeconfig.cache
