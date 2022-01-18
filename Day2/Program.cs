@@ -173,8 +173,8 @@ namespace AssignmentRockies
 
         static Member GetOldestMember() 
         {
-            var result = members.Max(member => member.Age);
-            return members.First(member => member.Age==result);
+            var result = members.Max(member => member.TotalDays);
+            return members.First(member => member.TotalDays==result);
         }
 
         static List<String> GetFullMemberNames()
@@ -186,8 +186,8 @@ namespace AssignmentRockies
         static Tuple<List<Member>, List<Member>, List<Member>> SplitByYear( int year)
         {   
             var list1 = members.Where(member => member.DateOfBirth.Year == year).ToList();
-            var list2 = members.Where(member => member.DateOfBirth.Year == year).ToList();
-            var list3 = members.Where(member => member.DateOfBirth.Year == year).ToList();
+            var list2 = members.Where(member => member.DateOfBirth.Year > year).ToList();
+            var list3 = members.Where(member => member.DateOfBirth.Year < year).ToList();
             
             return Tuple.Create(list1, list2, list3);
         }

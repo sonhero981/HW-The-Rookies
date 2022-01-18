@@ -1,6 +1,6 @@
 using System;
 namespace AssignmentRockies {   
-        public class Member : IComparable{
+        public class Member {
         public int Id {get; set;}
         public string FirstName {get; set;}
         public string LastName {get; set;}
@@ -30,10 +30,10 @@ namespace AssignmentRockies {
             }
         }
         
-        public int CompareTo(object obj)
-        {
-            return TotalDays.CompareTo(obj);
-        }
+        // public int CompareTo(object obj)
+        // {
+        //     return TotalDays.CompareTo(obj);
+        // }
     }   
 }
 
